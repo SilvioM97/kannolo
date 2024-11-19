@@ -1,6 +1,6 @@
 # kANNolo: Sweet and Smooth Approximate k-Nearest Neighbors Search
 
-![](./kannolo.png)
+![](./kANNolo.png)
 
 ## What is kANNolo
 
