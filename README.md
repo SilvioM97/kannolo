@@ -1,6 +1,8 @@
 # kANNolo: Sweet and Smooth Approximate k-Nearest Neighbors Search
 
+<p align="center">
 <img src="./kANNolo.png" alt="drawing" width="200"/>
+</p>
 
 ## What is kANNolo
 
