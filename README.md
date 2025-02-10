@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./kANNolo.png" alt="drawing" width="250"/>
+<img src="./kannolo.png" alt="drawing" width="250"/>
 </p>
 
 ## kANNolo: Sweet and Smooth Approximate k-Nearest Neighbors Search
